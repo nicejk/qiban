@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="qiban/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/douyalibrary/douyalibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/douyalibrary/douyalibrary.iml" group="qiban/douyalibrary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qiban.iml" filepath="$PROJECT_DIR$/.idea/modules/qiban.iml" group="qiban" />
+    </modules>
+  </component>
+</project>
